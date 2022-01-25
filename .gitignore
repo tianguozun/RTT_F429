@@ -1,11 +1,14 @@
 # Prerequisites
 *.d
+RTT_F429/.settings/
 
 # Compiled Object files
 *.slo
 *.lo
 *.o
 *.obj
+RTT_F429/build/
+RTT_F429/Debug/
 
 # Precompiled Headers
 *.gch
